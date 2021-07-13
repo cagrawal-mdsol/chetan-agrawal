@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetan-agrawal
+- 👋 Hi, I’m @chetan_agrawal-mdsol
 - 👀 I’m interested in React based front end applications
 - 🌱 I’m currently learning React and other front end technologies
 - 💞️ I’m looking to collaborate on anything which helps me grow and learn in frontend.
